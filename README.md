@@ -1,0 +1,1 @@
+my Quiz App Project built with HTML, CSS, and JavaScript! ✨ Interactive features: dynamic questions, answer highlighting, score tracking, and replay option. This project boosted my frontend development skills and made learning fun! 💻
